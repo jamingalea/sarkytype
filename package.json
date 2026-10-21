@@ -1,0 +1,8 @@
+{
+  "name": "sarkytype",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/og": "^0.8.5"
+  }
+}
